@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737844813380",
+    "firebase_url": "https://orcforandroid.firebaseio.com",
+    "project_id": "orcforandroid",
+    "storage_bucket": "orcforandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737844813380:android:6294454fda988b2079a611",
+        "android_client_info": {
+          "package_name": "com.example.orcforandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737844813380-ahjb0re1mcbuukqp5u41uc977157jheq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.orcforandroid",
+            "certificate_hash": "5be3729b7f348f6f2eb1a756f93be8297ada386e"
+          }
+        },
+        {
+          "client_id": "737844813380-6bupcf8tglm9me04q7kilkeho458mh4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANU5dtJtnkec5wLDVFL3Gfo2gByTUpmU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737844813380-6bupcf8tglm9me04q7kilkeho458mh4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
